@@ -6,10 +6,10 @@ require 'clock/version'
 Gem::Specification.new do |spec|
   spec.name          = "clock"
   spec.version       = Clock::VERSION
-  spec.authors       = ["TODO: amritdeep"]
-  spec.email         = ["TODO: amritdeepdhungana@hotmail.com"]
-  spec.description   = %q{TODO: display the time}
-  spec.summary       = %q{TODO: Give the time}
+  spec.authors       = ["amritdeep"]
+  spec.email         = ["amritdeepdhungana@hotmail.com"]
+  spec.description   = %q{display the time}
+  spec.summary       = %q{Give the time}
   spec.homepage      = ""
   spec.license       = "MIT"
 
